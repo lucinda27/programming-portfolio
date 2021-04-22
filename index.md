@@ -15,4 +15,4 @@ An object-oriented GUI calculator (fall 2020), created in Processing
 ![image of calculator](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/Images/calculator.png?raw=true)
 
 Source code available [here](https://github.com/lucinda27/programming-portfolio/tree/gh-pages/src/Spacegame)
-Executable for Windows available [here] (https://github.com/lucinda27/programming-portfolio/blob/gh-pages/applications/application.windows64.zip)
+Executable for Windows available [here](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/applications/application.windows64.zip)
