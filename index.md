@@ -1,4 +1,5 @@
 # Lucy Madsen's Programming Portfolio 2021
+[Email](mailto:lucimads9558@granitesd.org)
 
 ## Processing projects
 
