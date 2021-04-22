@@ -19,15 +19,6 @@ Source code available [here](https://github.com/lucinda27/programming-portfolio/
 
 Executable for Windows available [here](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/applications/application.windows64.zip)
 
-### Madlibs
-A madlibs application written in C++ on replit.com
-
-![image of the madlibs entries](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/Images/madlibs%20entries.png?raw=true)
-
-![image of the madlibs](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/Images/madlibs.png?raw=true)
-
-Source code available [here](https://github.com/lucinda27/programming-portfolio/tree/gh-pages/src/Madlibs)
-
 ### Etch-a-sketch
 A GUI application created in Processing
 
@@ -41,4 +32,15 @@ A GUI application created in Processing that shows important computer hardware i
 ![image of timeline](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/Images/timeline.png?raw=true)
 
 Source code available [here](https://github.com/lucinda27/programming-portfolio/tree/gh-pages/src/timeline)
+
+## C++ projects
+
+### Madlibs
+A madlibs application written in C++ on replit.com
+
+![image of the madlibs entries](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/Images/madlibs%20entries.png?raw=true)
+
+![image of the madlibs](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/Images/madlibs.png?raw=true)
+
+Source code available [here](https://github.com/lucinda27/programming-portfolio/tree/gh-pages/src/Madlibs)
 
