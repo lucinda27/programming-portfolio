@@ -22,9 +22,16 @@ Executable for Windows available [here](https://github.com/lucinda27/programming
 ### Madlibs
 A madlibs application written in C++ on replit.com
 
-![image of the madlibs application](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/Images/madlibs%20entries.png?raw=true)
+![image of the madlibs entries](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/Images/madlibs%20entries.png?raw=true)
 
 ![image of the madlibs](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/Images/madlibs.png?raw=true)
 
 Source code available [here](https://github.com/lucinda27/programming-portfolio/tree/gh-pages/src/Madlibs)
+
+### Etch-a-sketch
+A GUI application created in Processing
+
+![image of the etch-a-sketch application](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/Images/etch-a-sketch.png?raw=true)
+
+Source code available [here](https://github.com/lucinda27/programming-portfolio/tree/gh-pages/src/etch_a_sketch)
 
