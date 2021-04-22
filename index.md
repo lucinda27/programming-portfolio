@@ -44,3 +44,10 @@ A madlibs application written in C++ on replit.com
 
 Source code available [here](https://github.com/lucinda27/programming-portfolio/tree/gh-pages/src/Madlibs)
 
+### 99bottles
+An application that uses loops to print the 99bottles song, written in C++ on replit.com
+
+![image of 99bottles application](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/Images/99bottles.png?raw=true)
+
+Source code available [here](https://github.com/lucinda27/programming-portfolio/tree/gh-pages/src/99bottles)
+
