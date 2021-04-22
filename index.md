@@ -12,7 +12,7 @@ Source code available [here](https://github.com/lucinda27/programming-portfolio/
 
 Executable for Windows available [here](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/applications/Spacegame/application.windows64.zip)
 
-Executable for Mac available [here](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/applications/Spacegame/application.macosx.zip)
+Executable for Mac available [here](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/applications/Spacegame/application.macosx.zip).
 
 ### Calculator
 An object-oriented GUI calculator (fall 2020), created in Processing
