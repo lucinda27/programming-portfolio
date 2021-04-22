@@ -32,12 +32,20 @@ A GUI application created in Processing.
 
 Source code available [here](https://github.com/lucinda27/programming-portfolio/tree/gh-pages/src/etch_a_sketch).
 
+Executable for Windows available [here](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/applications/etch-a-sketch/application.windows64.zip).
+
+Executable for Mac available [here](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/applications/etch-a-sketch/application.macosx.zip).
+
 ### Computer Hardware Timeline
 A GUI application created in Processing that shows important computer hardware innovations.
 
 ![image of timeline](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/Images/timeline.png?raw=true)
 
 Source code available [here](https://github.com/lucinda27/programming-portfolio/tree/gh-pages/src/timeline).
+
+Executable for Windows available [here](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/applications/computertimeline/application.windows64.zip).
+
+Executable for Mac available [here](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/applications/computertimeline/application.macosx.zip).
 
 ## C++ projects
 
@@ -50,12 +58,16 @@ A madlibs application written in C++ on replit.com.
 
 Source code available [here](https://github.com/lucinda27/programming-portfolio/tree/gh-pages/src/Madlibs).
 
+Repl application available [here](https://replit.com/@LUCINDAMADSEN/madlibs#main.cpp)
+
 ### 99bottles
 An application that uses loops to print the 99bottles song, written in C++ on replit.com.
 
 ![image of 99bottles application](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/Images/99bottles.png?raw=true)
 
 Source code available [here](https://github.com/lucinda27/programming-portfolio/tree/gh-pages/src/99bottles).
+
+Repl application available [here](https://replit.com/@LUCINDAMADSEN/99bottles-2)
 
 ### IO
 An application that randomly asks the user one of ten questions and records their answer in a separate file, written in C++ on replit.com.
@@ -64,9 +76,13 @@ An application that randomly asks the user one of ten questions and records thei
 
 Source code available [here](https://github.com/lucinda27/programming-portfolio/tree/gh-pages/src/IO).
 
+Repl application available [here](https://replit.com/@LUCINDAMADSEN/I-O#main.cpp)
+
 ### Number guessing
 An application that asks the user to guess a number through multiple tries and then tells them once they guess correctly, written in C++ on replit.com.
 
 ![image of number guessing application](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/Images/numberguessing.png?raw=true)
 
 Source code available [here](https://github.com/lucinda27/programming-portfolio/tree/gh-pages/src/numberguessing).
+
+Repl application available [here](https://replit.com/@LUCINDAMADSEN/Numberguessing#main.cpp)
