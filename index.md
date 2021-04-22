@@ -51,21 +51,21 @@ A madlibs application written in C++ on replit.com.
 Source code available [here](https://github.com/lucinda27/programming-portfolio/tree/gh-pages/src/Madlibs).
 
 ### 99bottles
-An application that uses loops to print the 99bottles song, written in C++ on replit.com
+An application that uses loops to print the 99bottles song, written in C++ on replit.com.
 
 ![image of 99bottles application](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/Images/99bottles.png?raw=true)
 
 Source code available [here](https://github.com/lucinda27/programming-portfolio/tree/gh-pages/src/99bottles).
 
 ### IO
-An application that randomly asks the user one of ten questions and records their answer in a separate file, written in C++ on replit.com
+An application that randomly asks the user one of ten questions and records their answer in a separate file, written in C++ on replit.com.
 
 ![image of IO application](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/Images/IO.png?raw=true)
 
 Source code available [here](https://github.com/lucinda27/programming-portfolio/tree/gh-pages/src/IO).
 
 ### Number guessing
-An application that asks the user to guess a number through multiple tries and then tells them once they guess correctly, written in C++ on replit.com
+An application that asks the user to guess a number through multiple tries and then tells them once they guess correctly, written in C++ on replit.com.
 
 ![image of number guessing application](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/Images/numberguessing.png?raw=true)
 
