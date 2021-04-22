@@ -18,3 +18,13 @@ An object-oriented GUI calculator (fall 2020), created in Processing
 Source code available [here](https://github.com/lucinda27/programming-portfolio/tree/gh-pages/src/Spacegame)
 
 Executable for Windows available [here](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/applications/application.windows64.zip)
+
+### Madlibs
+A madlibs application written in C++ on replit.com
+
+![image of the madlibs application](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/Images/madlibs%20entries.png)
+
+![image of the madlibs](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/Images/madlibs.png)
+
+Source code available [here](https://github.com/lucinda27/programming-portfolio/tree/gh-pages/src/Madlibs)
+
