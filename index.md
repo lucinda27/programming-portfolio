@@ -10,6 +10,10 @@ An object-oriented game (winter 2020), created in Processing
 
 Source code available [here](https://github.com/lucinda27/programming-portfolio/tree/gh-pages/src/Spacegame)
 
+Executable for Windows available [here](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/applications/Spacegame/application.windows64.zip)
+
+Executable for Mac available [here](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/applications/Spacegame/application.macosx.zip)
+
 ### Calculator
 An object-oriented GUI calculator (fall 2020), created in Processing
 
@@ -17,7 +21,9 @@ An object-oriented GUI calculator (fall 2020), created in Processing
 
 Source code available [here](https://github.com/lucinda27/programming-portfolio/tree/gh-pages/src/Spacegame)
 
-Executable for Windows available [here](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/applications/application.windows64.zip)
+Executable for Windows available [here](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/applications/Calculator/application.windows64.zip)
+
+Executable for Mac available [here](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/applications/Calculator/application.macosx.zip)
 
 ### Etch-a-sketch
 A GUI application created in Processing
