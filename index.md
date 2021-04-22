@@ -57,3 +57,10 @@ An application that randomly asks the user one of ten questions and records thei
 ![image of IO application](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/Images/IO.png?raw=true)
 
 Source code available [here](https://github.com/lucinda27/programming-portfolio/tree/gh-pages/src/IO)
+
+### Number guessing
+An application that asks the user to guess a number through multiple tries and then tells them once they guess correctly, written in C++ on replit.com
+
+![image of number guessing application](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/Images/numberguessing.png?raw=true)
+
+Source code available [here](https://github.com/lucinda27/programming-portfolio/tree/gh-pages/src/numberguessing)
