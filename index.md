@@ -51,3 +51,9 @@ An application that uses loops to print the 99bottles song, written in C++ on re
 
 Source code available [here](https://github.com/lucinda27/programming-portfolio/tree/gh-pages/src/99bottles)
 
+### IO
+An application that randomly asks the user one of ten questions and records their answer in a separate file, written in C++ on replit.com
+
+![image of IO application](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/Images/IO.png?raw=true)
+
+Source code available [here](https://github.com/lucinda27/programming-portfolio/tree/gh-pages/src/IO)
