@@ -35,3 +35,10 @@ A GUI application created in Processing
 
 Source code available [here](https://github.com/lucinda27/programming-portfolio/tree/gh-pages/src/etch_a_sketch)
 
+### Computer Hardware Timeline
+A GUI application created in Processing that shows important computer hardware innovations
+
+![image of timeline](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/Images/timeline.png?raw=true)
+
+Source code available [here](https://github.com/lucinda27/programming-portfolio/tree/gh-pages/src/timeline)
+
