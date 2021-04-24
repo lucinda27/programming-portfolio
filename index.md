@@ -81,7 +81,7 @@ Source code available [here](https://github.com/lucinda27/programming-portfolio/
 Repl application available [here](https://replit.com/@LUCINDAMADSEN/I-O#main.cpp).
 
 ### Number guessing
-An application that asks the user to guess a number, takes in the guess, and gives information about the number, written in C++ on replit.com.
+
 
 ![image of number guessing application](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/Images/numberguessing.png?raw=true)
 
