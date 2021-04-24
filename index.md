@@ -6,7 +6,7 @@
 ### Space game
 An object-oriented game (winter 2020), created in Processing.
 
-![UML](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/Images/UML.png>raw=true)
+![UML](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/Images/UML.png?raw=true)
 
 ![image of space game start screen](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/Images/spacegame%20startscreen.png?raw=true) ![image of space game, level 4](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/Images/spacegame%204.png?raw=true) 
 
