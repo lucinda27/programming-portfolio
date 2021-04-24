@@ -28,7 +28,7 @@ Executable for Windows available [here](https://github.com/lucinda27/programming
 Executable for Mac available [here](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/applications/Calculator/application.macosx.zip).
 
 ### Etch-a-sketch
-A GUI application created in Processing that includes uses for loops.
+A GUI application created in Processing that uses for loops.
 
 ![image of the etch-a-sketch application](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/Images/etch-a-sketch.png?raw=true)
 
