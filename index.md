@@ -67,7 +67,7 @@ An application that uses loops to print the 99bottles song, written in C++ on re
 
 Source code available [here](https://github.com/lucinda27/programming-portfolio/tree/gh-pages/src/99bottles).
 
-Repl application available [here](https://replit.com/@LUCINDAMADSEN/99bottles-2)
+Repl application available [here](https://replit.com/@LUCINDAMADSEN/99bottles-2).
 
 ### IO
 An application that randomly asks the user one of ten questions and records their answer in a separate file, written in C++ on replit.com.
@@ -76,7 +76,7 @@ An application that randomly asks the user one of ten questions and records thei
 
 Source code available [here](https://github.com/lucinda27/programming-portfolio/tree/gh-pages/src/IO).
 
-Repl application available [here](https://replit.com/@LUCINDAMADSEN/I-O#main.cpp)
+Repl application available [here](https://replit.com/@LUCINDAMADSEN/I-O#main.cpp).
 
 ### Number guessing
 An application that asks the user to guess a number through multiple tries and then tells them once they guess correctly, written in C++ on replit.com.
@@ -85,4 +85,4 @@ An application that asks the user to guess a number through multiple tries and t
 
 Source code available [here](https://github.com/lucinda27/programming-portfolio/tree/gh-pages/src/numberguessing).
 
-Repl application available [here](https://replit.com/@LUCINDAMADSEN/Numberguessing#main.cpp)
+Repl application available [here](https://replit.com/@LUCINDAMADSEN/Numberguessing#main.cpp).
