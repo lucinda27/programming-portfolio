@@ -28,7 +28,7 @@ Executable for Windows available [here](https://github.com/lucinda27/programming
 Executable for Mac available [here](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/applications/Calculator/application.macosx.zip).
 
 ### Etch-a-sketch
-A GUI application created in Processing.
+A GUI application created in Processing that includes uses for loops.
 
 ![image of the etch-a-sketch application](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/Images/etch-a-sketch.png?raw=true)
 
@@ -39,7 +39,7 @@ Executable for Windows available [here](https://github.com/lucinda27/programming
 Executable for Mac available [here](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/applications/etch-a-sketch/application.macosx.zip).
 
 ### Computer Hardware Timeline
-A GUI application created in Processing that shows important computer hardware innovations.
+A GUI application created in Processing that shows important computer hardware innovations through the use of strings.
 
 ![image of timeline](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/Images/timeline.png?raw=true)
 
@@ -52,7 +52,7 @@ Executable for Mac available [here](https://github.com/lucinda27/programming-por
 ## C++ projects
 
 ### Madlibs
-A madlibs application written in C++ on replit.com.
+A madlibs application written in C++ on replit.com that uses arrays and strings.
 
 ![image of the madlibs entries](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/Images/madlibs%20entries.png?raw=true)
 
@@ -81,7 +81,7 @@ Source code available [here](https://github.com/lucinda27/programming-portfolio/
 Repl application available [here](https://replit.com/@LUCINDAMADSEN/I-O#main.cpp).
 
 ### Number guessing
-An application that asks the user to guess a number through multiple tries and then tells them once they guess correctly, written in C++ on replit.com.
+An application that asks the user to guess a number through multiple tries, takes in the guess, and gives hints on whether the guess was greater or less than the answer until they guess correctly, written in C++ on replit.com.
 
 ![image of number guessing application](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/Images/numberguessing.png?raw=true)
 
