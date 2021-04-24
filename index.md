@@ -8,7 +8,7 @@ An object-oriented game (winter 2020), created in Processing.
 
 ![image of UML](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/Images/UML.png?raw=true)
 
-![image of space game start screen](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/Images/spacegame%20startscreen.png?raw=true) ![image of space game, level 4](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/Images/spacegame%204.png?raw=true) 
+![image of space game start screen]) ![image of space game, level 4](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/Images/spacegame%204.png?raw=true) 
 
 Source code available [here](https://github.com/lucinda27/programming-portfolio/tree/gh-pages/src/Spacegame).
 
