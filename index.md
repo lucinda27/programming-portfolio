@@ -81,7 +81,7 @@ Source code available [here](https://github.com/lucinda27/programming-portfolio/
 Repl application available [here](https://replit.com/@LUCINDAMADSEN/I-O#main.cpp).
 
 ### Number guessing
-An application that randomly chooses a number from 1 to 100 and takes in the user's guesses.
+
 ![image of number guessing application](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/Images/numberguessing.png?raw=true)
 
 Source code available [here](https://github.com/lucinda27/programming-portfolio/tree/gh-pages/src/numberguessing).
