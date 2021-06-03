@@ -88,3 +88,6 @@ An application that randomly chooses a number from 1 to 100 and takes in the use
 Source code available [here](https://github.com/lucinda27/programming-portfolio/tree/gh-pages/src/numberguessing).
 
 Repl application available [here](https://replit.com/@LUCINDAMADSEN/Numberguessing#main.cpp).
+
+### Final project
+A text based adventure game where the user explores one room full of enciphered and secret messages to figure out what's going on. It makes use of a polyalphabetic cipher, based on the Alberti cipher, where the user can enter a keyword that is then used to either encipher or decipher text.
