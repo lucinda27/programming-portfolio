@@ -92,9 +92,9 @@ Repl application available [here](https://replit.com/@LUCINDAMADSEN/Numberguessi
 ### Final project
 A object-orriented text based adventure game where the user explores one room full of enciphered and secret messages to figure out what's going on. It makes use of a polyalphabetic cipher, based on the Alberti cipher, where the user can enter a keyword that is then used to either encipher or decipher text.
 
-![image of the game](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/Images/ciphergame.png?raw=true)
-
 ![image of UML](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/Images/Ciphergame%20final%20UML.png?raw=true)
+
+![image of the game](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/Images/ciphergame.png?raw=true)
 
 Source code available [here](https://github.com/lucinda27/programming-portfolio/tree/gh-pages/src/Final%20project).
 
