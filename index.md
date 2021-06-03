@@ -90,4 +90,8 @@ Source code available [here](https://github.com/lucinda27/programming-portfolio/
 Repl application available [here](https://replit.com/@LUCINDAMADSEN/Numberguessing#main.cpp).
 
 ### Final project
-A text based adventure game where the user explores one room full of enciphered and secret messages to figure out what's going on. It makes use of a polyalphabetic cipher, based on the Alberti cipher, where the user can enter a keyword that is then used to either encipher or decipher text.
+A object-orriented text based adventure game where the user explores one room full of enciphered and secret messages to figure out what's going on. It makes use of a polyalphabetic cipher, based on the Alberti cipher, where the user can enter a keyword that is then used to either encipher or decipher text.
+
+![image of UML](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/Images/Ciphergame%20final%20UML.png?raw=true)
+
+
