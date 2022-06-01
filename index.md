@@ -100,7 +100,16 @@ Source code available [here](https://github.com/lucinda27/programming-portfolio/
 
 Repl application available [here](https://replit.com/@LUCINDAMADSEN/cipher-game#main.cpp)
 
+## Advanced Java projects
+### Student interfaces
+An application that sorts student-athletes based on their scores and then by their track times.
 
+![image of student interfaces application](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/Images/StudentInterfaces.png)
+
+
+Source code available [here](https://github.com/lucinda27/programming-portfolio/tree/gh-pages/src/numberguessing).
+
+Repl application available [here](https://replit.com/@LUCINDAMADSEN/Numberguessing#main.cpp).
 
 
 
