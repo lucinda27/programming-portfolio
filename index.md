@@ -110,6 +110,15 @@ Repl application available [here](https://replit.com/@LUCINDAMADSEN/cipher-game#
 
 ## Advanced Java projects
 
+### Student interfaces
+An application that sorts student-athletes based on their scores and then by their track times.
+
+![image of student interfaces application](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/Images/studentinterfaces.png?raw=true)
+
+Source code available [here](https://github.com/lucinda27/programming-portfolio/tree/gh-pages/src/StudentInterfaces).
+
+Repl application available [here](https://replit.com/@LUCINDAMADSEN/InterfaceExample#Main.java).
+
 ### Beowulf searcher
 An application that searches the original text of Beowulf for the letters ð and þ.
 
