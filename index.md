@@ -119,5 +119,11 @@ Source code available [here](https://github.com/lucinda27/programming-portfolio/
 
 Repl application available [here](https://replit.com/@LUCINDAMADSEN/BeowulfIO#Main.java).
 
+### Ticket seller
+An application that allows the user to select a seat based on location or price.
 
+![image of ticket seller](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/Images/TicketSeller.png)
 
+Source code available [here](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/src/TicketSeller/TicketSeller.java).
+
+Repl application available [here](https://replit.com/@LUCINDAMADSEN/ticketArray#Main.java).
