@@ -135,3 +135,14 @@ An application that allows the user to select a seat based on location or price.
 Source code available [here](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/src/TicketSeller/TicketSeller.java).
 
 Repl application available [here](https://replit.com/@LUCINDAMADSEN/ticketArray#Main.java).
+
+### Game of Nim
+An application that allows the user to play the game of nim against a computer opponent at either smart or stupid mode.
+
+![image of Game of Nim](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/Images/GameOfNim.png)
+
+Source code available [here](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/src/GameOfNim/GameOfNim.java).
+
+Repl application available [here](https://replit.com/@LUCINDAMADSEN/GameOfNim#Main.java).
+
+### Group Project
