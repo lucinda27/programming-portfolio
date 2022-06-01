@@ -106,9 +106,18 @@ An application that sorts student-athletes based on their scores and then by the
 
 ![image of student interfaces application](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/Images/StudentInterfaces.png)
 
-Source code available [here](https://github.com/lucinda27/programming-portfolio/tree/gh-pages/src/StudentInterfaces)).
+Source code available [here](https://github.com/lucinda27/programming-portfolio/tree/gh-pages/src/StudentInterfaces).
 
 Repl application available [here](https://replit.com/@LUCINDAMADSEN/InterfaceExample#Main.java).
+
+### Beowulf searcher
+An application that searches the original text of Beowulf for the letters ð and þ.
+
+![image of Beowulf searcher](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/Images/Beowulf.png)
+
+Source code available [here](https://github.com/lucinda27/programming-portfolio/tree/gh-pages/src/Beowulf).
+
+Repl application available [here](https://replit.com/@LUCINDAMADSEN/BeowulfIO#Main.java).
 
 
 
