@@ -1,5 +1,9 @@
 # Lucy Madsen's Programming Portfolio 2021
 [Email](mailto:lucinda.madsen@gmail.com)
+Year 1 certification
+Year 1 C++ language certification
+Year 1 Java language certification
+Year 2 certification
 
 ## Processing projects
 
