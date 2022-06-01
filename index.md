@@ -106,10 +106,9 @@ An application that sorts student-athletes based on their scores and then by the
 
 ![image of student interfaces application](https://github.com/lucinda27/programming-portfolio/blob/gh-pages/Images/StudentInterfaces.png)
 
+Source code available [here]([https://github.com/lucinda27/programming-portfolio/tree/gh-pages/src/numberguessing](https://github.com/lucinda27/programming-portfolio/tree/gh-pages/src/StudentInterfaces)).
 
-Source code available [here](https://github.com/lucinda27/programming-portfolio/tree/gh-pages/src/numberguessing).
-
-Repl application available [here](https://replit.com/@LUCINDAMADSEN/Numberguessing#main.cpp).
+Repl application available [here]([https://replit.com/@LUCINDAMADSEN/Numberguessing#main.cpp](https://replit.com/@LUCINDAMADSEN/InterfaceExample#Main.java)).
 
 
 
